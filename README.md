@@ -1,9 +1,9 @@
 <img src="https://komarev.com/ghpvc/?username=slyguy5646&style=flat-square&color=blue" alt=""/>
 <h1 align="center">Hi 👋, I'm Liam</h1>
-- 🔭 I’m currently working on ChristmasPi
+🔭 I’m currently working on ChristmasPi
 
 
-- 🌱 I’m currently learning **Python, Tweepy, Flask, JS, Java, HTML, CSS**
+🌱 I’m currently learning **Python, Tweepy, Flask, JS, Java, HTML, CSS**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
