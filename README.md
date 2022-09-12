@@ -1,3 +1,5 @@
+<div align="center">
+
 <img src="https://komarev.com/ghpvc/?username=slyguy5646&style=flat-square&color=blue" alt=""/>
 <h1 align="center">Hi 👋, I'm Liam</h1>
 🔭 I’m currently working on ChristmasPi
@@ -15,4 +17,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=slyguy5646&show_icons=true&locale=en" alt="slyguy5646" /></p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=slyguy5646&show_icons=true&locale=en&layout=compact" alt="slyguy5646" /></p>
 
-
+</div>
