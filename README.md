@@ -16,6 +16,6 @@
 
 
 <p>&nbsp;<img align="center" src="http://github-readme-streak-stats.herokuapp.com/?user=slyguy5646&theme=dark&hide_border=true&border_radius=6" /></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=slyguy5656" alt="slyguy5646" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=slyguy5646" alt="slyguy5646" /></p>
 
 </div>
