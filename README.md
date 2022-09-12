@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Liam</h1>
-- 🔭 I’m currently working on [ChristmasPi](https://github.com/slyguy5646/ChristmasPi)
+- 🔭 I’m currently working on ChristmasPi
 
 - 🌱 I’m currently learning **Python, Tweepy, Flask, JS, Java, HTML, CSS**
 
