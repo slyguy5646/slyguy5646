@@ -6,7 +6,7 @@
  
 🔭 I’m currently working on ChristmasPi
 
-🌱 I’m currently learning **Python, Tweepy, Flask, JS, Java, HTML, CSS**
+🌱 I’m currently learning **OpenCV, React, Java, HTML, CSS**
 
 <p align="center">
 </p>
