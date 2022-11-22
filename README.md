@@ -17,5 +17,5 @@
 
 <p>&nbsp;<img align="center" src="http://github-readme-streak-stats.herokuapp.com/?user=slyguy5646&theme=dark&hide_border=true&border_radius=6" /></p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=slyguy5646&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=slyguy5646&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
 </div>
