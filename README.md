@@ -6,7 +6,7 @@
  
 🔭 I’m currently working on [lpm.sh](https://lpm.sh)
 
-🌱 I’m currently learning **OpenCV, React, Java, HTML, CSS**
+🌱 I’m currently learning **Tailwind, React, Java, and Swift**
 
 <p align="center">
 </p>
