@@ -21,7 +21,9 @@
  
  </p>
 
-<p>&nbsp;<img align="center" src="http://github-readme-streak-stats.herokuapp.com/?user=slyguy5646&theme=dark&hide_border=true&border_radius=6" /></p>
+<p>&nbsp;<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=slyguy5646&theme=github_dark" /></p>
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=slyguy5646&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
 </div>
+
+<!-- ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=slyguy5646&theme=github_dark) -->
