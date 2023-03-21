@@ -18,7 +18,7 @@
  
 🔭 I’m currently working on [lpm.sh](https://lpm.sh)
 
-🌱 I’m currently learning **Tailwind, React, Java, and Swift**
+🌱 I’m currently learning **Ionic, Typescript, and Java**
 
 <p align="center">
 </p>
