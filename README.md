@@ -18,7 +18,7 @@
  
 🔭 I’m currently working on [lpm.sh](https://lpm.sh)
 
-🌱 I’m currently learning **Ionic, Typescript, and Java**
+🌱 I’m currently learning **Laravel and PHP**
 
 <p align="center">
 </p>
