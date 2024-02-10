@@ -41,10 +41,8 @@
 <a href="https://tailwindcss.com" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/1024px-Tailwind_CSS_Logo.svg.png" alt="tailwind" height="40" /></a> 
 <!-- SUPABASE -->
 <a href="https://supabase.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/github/explore/f4ec5347a36e06540a69376753a7c37a8cb5a136/topics/supabase/supabase.png" alt="supabase" width="40" height="40" /></a>
-</p>
-<!-- POSTGRES -->
+ <!-- POSTGRES -->
 <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/993px-Postgresql_elephant.svg.png" alt="postgres" width="40" height="40" /></a>
-</p>
 <!-- MYSQL -->
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://assets-global.website-files.com/65141f14d70bcfacd794fa3c/651d90b0c6ed49fdcad29c85_MySQL-Logo.png" alt="postgres"  height="40" /></a>
 </p>
