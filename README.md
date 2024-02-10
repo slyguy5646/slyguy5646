@@ -42,6 +42,8 @@
 <!-- SUPABASE -->
 <a href="https://supabase.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/github/explore/f4ec5347a36e06540a69376753a7c37a8cb5a136/topics/supabase/supabase.png" alt="supabase" width="40" height="40" /></a>
 </p>
+<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/993px-Postgresql_elephant.svg.png" alt="postgres" width="40" height="40" /></a>
+</p>
 
 <p>&nbsp;<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=slyguy5646&theme=github_dark" /></p>
 
