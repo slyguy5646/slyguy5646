@@ -20,7 +20,7 @@
 
 🔭 I’m currently building [StudySail](https://studysail.com)
 
-🌱 I’m currently learning **Laravel and PHP**
+🌱 I’m currently learning **Hono 🔥**
 
 <p align="center">
 </p>
