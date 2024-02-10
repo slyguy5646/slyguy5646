@@ -38,7 +38,7 @@
 <!-- NEXTJS -->
 <a href="https://nextjs.org/" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/354113/nextjs-icon.svg" alt="nextjs" width="40" height="40" /></a>
 <!-- TAILWIND -->
-<a href="https://tailwindcss.com" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/1024px-Tailwind_CSS_Logo.svg.png" alt="tailwind" width="40" height="40" /></a> 
+<a href="https://tailwindcss.com" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/1024px-Tailwind_CSS_Logo.svg.png" alt="tailwind" height="40" /></a> 
 <!-- SUPABASE -->
 <a href="https://supabase.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/github/explore/f4ec5347a36e06540a69376753a7c37a8cb5a136/topics/supabase/supabase.png" alt="supabase" width="40" height="40" /></a>
 </p>
