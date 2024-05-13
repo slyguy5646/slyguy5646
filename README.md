@@ -18,7 +18,7 @@
 <img src="https://komarev.com/ghpvc/?username=slyguy5646&style=flat-square&color=blue" alt=""/>
 
 
-🔭 I’m currently building [StudySail](https://studysail.com)
+🔭 I’m currently building [Mergi](https://mergi.co)
 
 🌱 I’m currently learning **Hono 🔥**
 
