@@ -36,7 +36,7 @@
 <!-- Typescript -->
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" alt="typescript" width="40" height="40" /></a>
 <!-- NEXTJS -->
-<a href="https://nextjs.org/" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/354113/nextjs-icon.svg" alt="nextjs" width="40" height="40" /></a>
+<a href="https://nextjs.org/" target="_blank" rel="noreferrer"><img src="https://devicons.railway.app/i/nextjs-light.svg" alt="nextjs" width="40" height="40" /></a>
 <!-- TAILWIND -->
 <a href="https://tailwindcss.com" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/1024px-Tailwind_CSS_Logo.svg.png" alt="tailwind" height="40" /></a> 
 <!-- SUPABASE -->
