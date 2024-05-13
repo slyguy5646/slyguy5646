@@ -53,4 +53,3 @@
 </div>
 
 <!-- ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=slyguy5646&theme=github_dark) -->
-```
