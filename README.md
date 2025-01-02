@@ -20,7 +20,7 @@
 
 🔭 I’m currently building [Mergi](https://mergi.co)
 
-🌱 I’m currently learning **Hono 🔥**
+🌱 I’m currently learning **Hono 🔥 & Stripe**
 
 <p align="center">
 </p>
